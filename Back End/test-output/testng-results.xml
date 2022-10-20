@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T17:02:09 IST" name="Default suite" finished-at="2022-10-20T17:09:38 IST" duration-ms="448537">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T17:02:09 IST" name="Default test" finished-at="2022-10-20T17:09:38 IST" duration-ms="448537">
+      <class name="com.aadhar.MAadharAppApplicationTestsCode">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:02:10 IST" name="beforeMethod" finished-at="2022-10-20T17:03:50 IST" duration-ms="100490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testing()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:03:50 IST" name="testing" finished-at="2022-10-20T17:04:14 IST" duration-ms="23236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:04:14 IST" name="afterMethod" finished-at="2022-10-20T17:04:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:04:14 IST" name="beforeMethod" finished-at="2022-10-20T17:04:42 IST" duration-ms="28052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="signup()[pri:1, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:04:42 IST" name="signup" finished-at="2022-10-20T17:05:13 IST" duration-ms="30942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:05:13 IST" name="afterMethod" finished-at="2022-10-20T17:05:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:05:13 IST" name="beforeMethod" finished-at="2022-10-20T17:05:32 IST" duration-ms="19235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="signin()[pri:2, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:05:32 IST" name="signin" finished-at="2022-10-20T17:05:54 IST" duration-ms="21710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:05:54 IST" name="afterMethod" finished-at="2022-10-20T17:05:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:05:54 IST" name="beforeMethod" finished-at="2022-10-20T17:06:13 IST" duration-ms="19012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="adminhome()[pri:4, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:06:13 IST" name="adminhome" finished-at="2022-10-20T17:06:31 IST" duration-ms="18539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminhome -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:06:31 IST" name="afterMethod" finished-at="2022-10-20T17:06:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:06:31 IST" name="beforeMethod" finished-at="2022-10-20T17:06:50 IST" duration-ms="18571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="userhome()[pri:5, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:06:50 IST" name="userhome" finished-at="2022-10-20T17:08:07 IST" duration-ms="76491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userhome -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:08:07 IST" name="afterMethod" finished-at="2022-10-20T17:08:07 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:08:07 IST" name="beforeMethod" finished-at="2022-10-20T17:09:12 IST" duration-ms="65422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loadusers()[pri:6, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:09:12 IST" name="loadusers" finished-at="2022-10-20T17:09:37 IST" duration-ms="24294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadusers -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.aadhar.MAadharAppApplicationTestsCode@58ea606c]" started-at="2022-10-20T17:09:37 IST" name="afterMethod" finished-at="2022-10-20T17:09:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.aadhar.MAadharAppApplicationTestsCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
